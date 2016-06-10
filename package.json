@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "pi-blaster.js": "^0.1.1",
     "underscore": "^1.8.3",
     "underscore-node": "^0.1.2"
   },
