@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "express": "^4.13.4",
     "pi-blaster.js": "^0.1.1",
+    "socket.io": "^1.4.6",
     "underscore": "^1.8.3",
     "underscore-node": "^0.1.2"
   },
